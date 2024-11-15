@@ -1,0 +1,8 @@
+imutils==0.5.4
+telebot==0.0.5
+requests==2.31.0
+numpy==1.26.1
+ultralytics==8.0.214
+opencv-python==4.8.1.78
+google.cloud.storage==2.13.0
+python-dotenv==1.0.0
